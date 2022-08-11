@@ -1,2 +1,2 @@
 
-Click Here=https://adityawandhekar.github.io/Animation_game_page.github.io/
+Click Here=https://adityawandhekar.github.io/Animation_game_page.github.io/mari.html
